@@ -1,10 +1,10 @@
-# 🤟 Sign Language Interpreter (Python + Mediapipe + TensorFlow)
+#  Sign Language Interpreter (Python + Mediapipe + TensorFlow)
 
 This is a real-time Sign Language Interpreter using a Convolutional Neural Network (CNN) and MediaPipe for hand tracking. It uses your webcam to detect and interpret ASL signs.
 
 ---
 
-## 📦 Features
+##  Features
 
 - Real-time hand gesture detection using MediaPipe
 - CNN model trained on ASL alphabet images
@@ -13,7 +13,7 @@ This is a real-time Sign Language Interpreter using a Convolutional Neural Netwo
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
@@ -62,7 +62,7 @@ Then run:
 python predict_live.py
 ```
 
-### 📂 Folder Structure
+###  Folder Structure
 
 ```bash
 sign-language-interpreter-py310/
@@ -75,16 +75,16 @@ sign-language-interpreter-py310/
 └── asl_alphabet_train/     # ASL image dataset
 ```
 
-### ✅ TODO
+###  TODO
  Improve accuracy with more training data
  Add GUI for easier interaction
  Support full sentence detection (not just letters)
 
-### 🧠 Credits
+###  Credits
 Dataset: ASL Alphabet Dataset by M. Massey
 Libraries: OpenCV, TensorFlow, MediaPipe
 
-### 📄 License
+###  License
 MIT — free for personal or commercial use.
 
 ---
